@@ -174,8 +174,5 @@ Welcome 👋! It is me, Bruno Peixoto, a data adventurer!
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img height=200 src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=brunolnetto&include_orgs=true&include_orgs=true&layout=compact&theme=transparent&langs_count=10&hide_border=1&hide=jupyter%20notebook&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Bruno Peixoto's Language stats" />
 </a>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=brunolnetto&#gh-dark-mode-only">
-<img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=brunolnetto&theme=elegant" alt="Bruno Peixoto's streak stats" />
-</a>
 </div>
 
